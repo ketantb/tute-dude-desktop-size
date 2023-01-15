@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tute-dude-desktop-size/static/css/main.0e33d350.css",
+    "main.js": "/tute-dude-desktop-size/static/js/main.b8a2fe5c.js",
+    "index.html": "/tute-dude-desktop-size/index.html",
+    "main.0e33d350.css.map": "/tute-dude-desktop-size/static/css/main.0e33d350.css.map",
+    "main.b8a2fe5c.js.map": "/tute-dude-desktop-size/static/js/main.b8a2fe5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e33d350.css",
+    "static/js/main.b8a2fe5c.js"
+  ]
+}
