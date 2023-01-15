@@ -1,0 +1,16 @@
+.font-l-24{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+}
+
+.who-enrolled{
+    font-weight: 500;
+    color: purple;
+}
+
+.cards{
+    margin-top: 20px;
+    display: flex;
+    /* justify-content: space-between; */
+}
+

@@ -1,0 +1,58 @@
+.font-sm-14{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.font-m-16{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.font-ml-20{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.card-container{
+    box-sizing: border-box;
+    width: 95%;
+    height: 197px;
+    border: 1px solid black;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    background: linear-gradient(90deg,#ff864c,purple);
+}
+
+.card-container>:nth-child(1){
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-container>:nth-child(2){
+    margin-top: 7px;
+}
+
+.card-container>:nth-child(3){
+    margin-top: 7px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-container>:nth-child(4){
+    margin-top: 7px;
+}
+
+.course-caps{
+    padding: 2px 7px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1.8px solid #eee;
+}

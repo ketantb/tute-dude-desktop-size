@@ -1,0 +1,43 @@
+#navbar-body{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    width: 450px;
+}
+
+.nav-btns{
+    border: none;
+    background-color: #ffff;
+    cursor: pointer;
+    color: #f0c0e6;
+    font-size: 16px;
+    font-weight: 400;
+    /* border: 1px solid black; */
+}
+
+.nav-btns:hover{
+    color: purple;
+}
+
+#profile-btn{
+    border: none;
+    background-color: #ffff;
+    color: purple;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.nav-profile-icon{
+    color: purple;
+    font-size: 27px;
+}
+
+.nav-profile-down-arrow{
+    color: purple;
+    font-size: 21px;
+    margin-top: 2px;
+}
+
+.nav-profile-block{
+    display: flex;
+}
